@@ -50,13 +50,21 @@
     padding: 20px;
 }
 
+.lista_impressionismo{
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 20px;
+    list-style: disc;
+}
+
 .title_right_durante{
     display: flex;
     justify-content: center;
     width: 100%;
     height: fit-content;
     font-size: 40px;
-    font-weight: 800;
     color: var(--second-color);
 }
 

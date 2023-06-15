@@ -48,6 +48,14 @@
     gap: 20px;
     padding: 20px;
 }
+.lista_pos{
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 20px;
+    list-style: disc;
+}
 
 .title_right_pos{
     display: flex;
